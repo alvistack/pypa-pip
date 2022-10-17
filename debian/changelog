@@ -1,0 +1,5 @@
+python-pip (100:22.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pypa/pip/releases/tag/22.2
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Thu, 21 Jul 2022 18:36:48 +0800
