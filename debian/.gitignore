@@ -1,0 +1,8 @@
+*.substvars
+*debhelper*
+.debhelper
+files
+python-pip-whl
+python3-pip
+python3-pip-whl
+tmp
