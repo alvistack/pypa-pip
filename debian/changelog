@@ -1,0 +1,5 @@
+python-pip (100:25.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pypa/pip/releases/tag/25.2
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Thu, 31 Jul 2025 09:19:12 +0900
