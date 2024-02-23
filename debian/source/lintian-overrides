@@ -1,0 +1,4 @@
+python-pip source: file-without-copyright-information
+python-pip source: no-debian-changes
+python-pip source: source-contains-prebuilt-windows-binary
+python-pip source: source-package-encodes-python-version
