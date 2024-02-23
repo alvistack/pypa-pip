@@ -73,7 +73,7 @@ class SelfCheckState:
             return None
 
         # Determine if we need to refresh the state
-        last_check = datetime.datetime.fromisoformat(self._state["last_check"])
+        last_check = datetime.datetime.fromisoformat(self._state["last_check"].replace('Z', '+00:00'))
         time_since_last_check = current_time - last_check
         if time_since_last_check > _WEEK:
             return None
