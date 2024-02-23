@@ -1,0 +1,5 @@
+python-pip (100:24.1.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pypa/pip/releases/tag/24.1.2
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Mon, 08 Jul 2024 14:22:32 +0800
