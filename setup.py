@@ -25,7 +25,7 @@ long_description = read("README.rst")
 
 setup(
     name="pip",
-    version=get_version("src/pip/__init__.py"),
+    version="21.3.1",
     description="The PyPA recommended tool for installing Python packages.",
     long_description=long_description,
     license="MIT",
