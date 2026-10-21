@@ -1,0 +1,5 @@
+python-pip (100:26.2.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pypa/pip/releases/tag/26.2.2
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Wed, 21 Oct 2026 17:34:20 +0800

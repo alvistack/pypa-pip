@@ -1,0 +1,4 @@
+python3-pip: copyright-without-copyright-notice
+python3-pip: initial-upload-closes-no-bugs
+python3-pip: no-manual-page
+python3-pip: zero-byte-file-in-doc-directory
